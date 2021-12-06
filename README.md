@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16RvIoyhgROtVeakoY1FiFuj4j5ImFE0S/view?usp=sharing)
 
-- ⚡ Fun fact **I don't like pineapple over pizza**
+- ⚡ Fun fact **I haven't watched FRIENDS**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
