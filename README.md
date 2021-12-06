@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryan.singhal@protonmail.com**
 
-- 📄 Know about my experiences [shorturl.at/frtvI](shorturl.at/frtvI)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16RvIoyhgROtVeakoY1FiFuj4j5ImFE0S/view?usp=sharing)
 
 - ⚡ Fun fact **I don't like pineapple over pizza**
 
