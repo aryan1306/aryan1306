@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Real Time Docs](https://github.com/aryan1306/real-time-docs)
 
-- 🌱 I’m currently learning **Solidiy, Web3**
+- 🌱 I’m currently learning **Solidity, Web3**
 
 - 📝 I regularly write articles on [https://aryan-singhal-29418.medium.com](https://aryan-singhal-29418.medium.com)
 
