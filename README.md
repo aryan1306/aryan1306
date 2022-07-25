@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aryan.singhal@protonmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/16RvIoyhgROtVeakoY1FiFuj4j5ImFE0S/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HVonnAf43urxwckzgPQ7aqCZS3rySBHH/view?usp=sharing)
 
 - ⚡ Fun fact **I haven't watched FRIENDS**
 
