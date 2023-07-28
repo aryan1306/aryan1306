@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **work.aryan.singhal@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1HVonnAf43urxwckzgPQ7aqCZS3rySBHH/view?usp=sharing](https://drive.google.com/file/d/1vkJEG-byXk_DtoQgQ3_vz6blsa66rA3D/view?usp=sharing)])
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1HVonnAf43urxwckzgPQ7aqCZS3rySBHH/view?usp=sharing](https://drive.google.com/file/d/1vkJEG-byXk_DtoQgQ3_vz6blsa66rA3D/view?usp=sharing))
 
 - ⚡ Fun fact **I haven't watched FRIENDS**
 
