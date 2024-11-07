@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aryan Singhal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Real Time Docs](https://github.com/aryan1306/real-time-docs)
-
 - 📝 I regularly write articles on [https://aryan-singhal-29418.medium.com](https://aryan-singhal-29418.medium.com)
 
-- 💬 Ask me about **react, redux, graphql**
+- 💬 Ask me about **react, redux, react native**
 
 - 📫 How to reach me **work.aryan.singhal@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1vkJEG-byXk_DtoQgQ3_vz6blsa66rA3D/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1-BZYI-wGBEjZz-ClTsA5ZKHJlHtUNEn-Q5tqGHa-uU0/edit?usp=sharing)
 
 - ⚡ Fun fact **I haven't watched FRIENDS**
 
