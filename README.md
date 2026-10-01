@@ -2,7 +2,7 @@
 
 Senior frontend / React Native engineer in Bengaluru, 4.5 years in. I work on build tooling, mobile delivery and AI-assisted developer workflows, and I send fixes upstream when the tools I use break.
 
-Currently at **[Scripbox](https://scripbox.com)**. Previously at **Xebia**, building banking apps for Yes Bank and IndusInd Bank.
+Currently at **[Scripbox](https://scripbox.com)**. Previously at **Xebia**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singhal-09b0641a2)
 [![X](https://img.shields.io/badge/@aryandotexe-000000?style=flat&logo=x&logoColor=white)](https://x.com/aryandotexe)
