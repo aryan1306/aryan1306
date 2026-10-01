@@ -19,10 +19,8 @@ Currently at **[Scripbox](https://scripbox.com)**. Previously at **Xebia**.
 | [better-auth](https://github.com/better-auth/better-auth) | [Return JSON content type on rate-limited (429) responses](https://github.com/better-auth/better-auth/pull/11469) | ✅ Merged |
 | [rslint](https://github.com/web-infra-dev/rslint) | [Port the unicorn `no-useless-continue` rule](https://github.com/web-infra-dev/rslint/pull/2321) | ✅ Merged |
 | [react-native](https://github.com/react/react-native) | [Fix `maintainVisibleContentPosition` when ScrollView content shrinks](https://github.com/react/react-native/pull/58695) | 🔄 In review |
-| [bun](https://github.com/oven-sh/bun) | [`node:http`: reject empty writes for bodyless responses](https://github.com/oven-sh/bun/pull/43994) | 🔄 In review |
 | [rspack](https://github.com/web-infra-dev/rspack) | [Resolve aliases in `import.meta.glob` patterns](https://github.com/web-infra-dev/rspack/pull/15898) | 🔄 In review |
 | [better-auth](https://github.com/better-auth/better-auth) | [Allow concurrent queries on the D1 kysely dialect](https://github.com/better-auth/better-auth/pull/11490) ([repro](https://github.com/aryan1306/better-auth-d1-kysely-repro)) | 🔄 In review |
-| [react-native-maps](https://github.com/react-native-maps/react-native-maps) | [Android: avoid empty marker info windows](https://github.com/react-native-maps/react-native-maps/pull/6014) | 🔄 In review |
 
 #### Things I've built
 
