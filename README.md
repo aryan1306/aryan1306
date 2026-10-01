@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Aryan Singhal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+### Hi, I'm Aryan 👋
 
-- 📝 I regularly write articles on [https://aryan-singhal-29418.medium.com](https://aryan-singhal-29418.medium.com)
+Senior frontend / React Native engineer in Bengaluru, 4.5 years in. I work on build tooling, mobile delivery and AI-assisted developer workflows, and I send fixes upstream when the tools I use break.
 
-- 💬 Ask me about **react, redux, react native**
+Currently at **[Scripbox](https://scripbox.com)**. Previously at **Xebia**, building banking apps for Yes Bank and IndusInd Bank.
 
-- 📫 How to reach me **work.aryan.singhal@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singhal-09b0641a2)
+[![X](https://img.shields.io/badge/@aryandotexe-000000?style=flat&logo=x&logoColor=white)](https://x.com/aryandotexe)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://aryan-singhal-29418.medium.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:work.aryan.singhal@gmail.com)
+![AWS SAA](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1KgjC5e5Fd-GL1ZJlwrK6uPSCFe7VkflJDbB8b17bGzM/edit?usp=sharing)
+---
 
-- ⚡ Fun fact **I haven't watched FRIENDS**
+#### Open source
 
-<!-- ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+| Project | Contribution | Status |
+|---|---|---|
+| [better-auth](https://github.com/better-auth/better-auth) | [Return JSON content type on rate-limited (429) responses](https://github.com/better-auth/better-auth/pull/11469) | ✅ Merged |
+| [rslint](https://github.com/web-infra-dev/rslint) | [Port the unicorn `no-useless-continue` rule](https://github.com/web-infra-dev/rslint/pull/2321) | ✅ Merged |
+| [react-native](https://github.com/react/react-native) | [Fix `maintainVisibleContentPosition` when ScrollView content shrinks](https://github.com/react/react-native/pull/58695) | 🔄 In review |
+| [bun](https://github.com/oven-sh/bun) | [`node:http`: reject empty writes for bodyless responses](https://github.com/oven-sh/bun/pull/43994) | 🔄 In review |
+| [rspack](https://github.com/web-infra-dev/rspack) | [Resolve aliases in `import.meta.glob` patterns](https://github.com/web-infra-dev/rspack/pull/15898) | 🔄 In review |
+| [better-auth](https://github.com/better-auth/better-auth) | [Allow concurrent queries on the D1 kysely dialect](https://github.com/better-auth/better-auth/pull/11490) ([repro](https://github.com/aryan1306/better-auth-d1-kysely-repro)) | 🔄 In review |
+| [react-native-maps](https://github.com/react-native-maps/react-native-maps) | [Android: avoid empty marker info windows](https://github.com/react-native-maps/react-native-maps/pull/6014) | 🔄 In review |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryan-singhal-09b0641a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-singhal-09b0641a2" height="30" width="40" /></a>
-<a href="https://medium.com/@aryan-singhal-29418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryan-singhal-29418" height="30" width="40" /></a>
-</p>
+#### Things I've built
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **[LLMits](https://github.com/aryan1306/LLMits)**: a native macOS menu-bar app (Swift) that shows how much of your Claude Code and Codex quota you've used.
+- **[ai-commit-gen](https://github.com/aryan1306/ai-commit-gen)**: a Go CLI that writes commit messages from your staged diff. Installable via Homebrew.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan1306&show_icons=true&locale=en&layout=compact" alt="aryan1306" /></p>
+#### Recent work
 
+- Built an **AI bug-triage workflow** (Anthropic API + AI SDK) that matches support tickets with Sentry and Graylog logs, suggests a likely fix and routes the ticket to the code owner.
+- Moved the frontend from **Webpack to Rspack**, giving faster dev startup, faster CI builds and HMR for the whole team.
+- Set up **over-the-air updates for React Native** with GitLab CI: bundles versioned per commit, promoted across environments and rolled back instantly. Hotfixes now ship in minutes instead of days.
+- Wrote a shared **auth library** with built-in token refresh for web and mobile.
+- Led **WCAG 2.1 accessibility** work across the web platform.
+
+#### Stack
+
+TypeScript · React · React Native · Next.js · Node / Bun · Rspack / Vite · Tailwind · shadcn/ui · Jest / RTL · Go · Swift · AWS · GitHub Actions / GitLab CI
